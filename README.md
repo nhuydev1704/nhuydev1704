@@ -7,7 +7,7 @@
 - number format() = const value = numberWithCommas(22000000) -> 22,200,000
 - const numberWithCommas = (number) => {return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g,",");}
 -----------------------------------------------------------------------
--number format() = const value = numberWithCommas(22000000) -> 22M
+-number format() = const value = compactNumber(22000000) -> 22M
 - const compactNumber = (value) => {
   const suffixes = ["", "k", "m", "b", "t"];
   const suffixNum = Math.floor((""+value).length / 3);
