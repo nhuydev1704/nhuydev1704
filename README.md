@@ -26,39 +26,39 @@
 
 Tạo SSH key dưới local
 
-1.MởGitbash
+1. MởGitbash
 
-2.Chạylệnh
+2. Chạylệnh
 
 `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
 
 Add SSH key to ssh-agent
 
-1.Chạy ssh-agent
+1. Chạy ssh-agent
 
 `eval $(ssh-agent -s)`
 
-2.Thêm ssh-key vào ssh-agent
+2. Thêm ssh-key vào ssh-agent
 
 `ssh-add ~/.ssh/id_rsa`
 
 Thêm SSH vào Github account
 
-1.MởGitbash
+1. MởGitbash
 
-2.Chạylệnh
+2. Chạylệnh
 
 `clip < ~/.ssh/id_rsa.pub`
 
 Vào Github,thêm mới một SSH key
 
-.Vào tài khoản Github --> Settings.
+1 .Vào tài khoản Github --> Settings.
 
-.Vào mục SSH và GPG keys.
+2. Vào mục SSH và GPG keys.
 
-.Thêm mới một SSH và paste cái SSH key vừa mới copy xong. Đặt title cho SSH để biết SSH key này là của máy tính nào.
+3. Thêm mới một SSH và paste cái SSH key vừa mới copy xong. Đặt title cho SSH để biết SSH key này là của máy tính nào.
 
-.Xác nhận thêm SSH key thành công bằng cách chạy lệnh
+4. Xác nhận thêm SSH key thành công bằng cách chạy lệnh
 
 `ssh -T git@github.com`
 
