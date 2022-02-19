@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Nguyễn Như Ý
+
+# Hi, I’m Nguyen Nhu Y!   <img src="https://emoji.gg/assets/emoji/7803-neco-arc.png" width="64px" height="64px" alt="totoro">
+
+## My information
+
 - 👀 I’m interested in fullstack deverloper.
 - 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
 - 💞️ I am looking to intern front end
