@@ -3,66 +3,28 @@
 - 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
 - 💞️ I am looking to intern front end
 - 📫 How to reach me email: nguyennhuy170400@gmail.com or khanhandli@gmail.com or phone: 0328849286
-- 
-- -----------------------------------------------------------------------
+#
+<img src="https://komarev.com/ghpvc/?username=khanhandli&color=blue">
 
-**Use Case JS**
-- number format() = const value = numberWithCommas(22000000) -> 22,200,000
-- const numberWithCommas = (number) => {return number.toString().replace(/\B(?=(\d{3})+(?!\d))/g,",");}
+## Web Front-end:
 
-- number format() = const value = compactNumber(22000000) -> 22M
-- const compactNumber = (value) => {
-  const suffixes = ["", "k", "m", "b", "t"];
-  const suffixNum = Math.floor((""+value).length / 3);
-  let shortValue = parseFloat((suffixNum !== 0 ? (value / Math.pow(1000, suffixNum)) : value).toPrecision(2));
-  if(shortValue % 1 !== 0) {
-    shortValue = shortValue.toFixed(1);
-  }
-  return shortValue+suffixes[suffixNum];
-}
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"> 
 
------------------------------------------------------------------------
-**Cấu hình SSH key github**
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"> ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
-Tạo SSH key dưới local
+## Moblie App:
 
-1. MởGitbash
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-2. Chạylệnh
+## Web Back-end
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
 
-`ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+## ✏️ My Blog
 
-Add SSH key to ssh-agent
+I used my knowledge to build a blog and share it with everyone - You can find my blogs on here: <a href="https://nhuydev.tk"> Blog Nhuydev </a>
 
-1. Chạy ssh-agent
+## 📈 Github Stats
 
-`eval $(ssh-agent -s)`
 
-2. Thêm ssh-key vào ssh-agent
-
-`ssh-add ~/.ssh/id_rsa`
-
-Thêm SSH vào Github account
-
-1. MởGitbash
-
-2. Chạylệnh
-
-`clip < ~/.ssh/id_rsa.pub`
-
-Vào Github,thêm mới một SSH key
-
-1 .Vào tài khoản Github --> Settings.
-
-2. Vào mục SSH và GPG keys.
-
-3. Thêm mới một SSH và paste cái SSH key vừa mới copy xong. Đặt title cho SSH để biết SSH key này là của máy tính nào.
-
-4. Xác nhận thêm SSH key thành công bằng cách chạy lệnh
-
-`ssh -T git@github.com`
-
-<!---
-khanhandli/khanhandli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://github-readme-stats.vercel.app/api?username=khanhandli&theme=tokyonight&show_icons=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhandli&theme=tokyonight&layout=compact&langs_count=6">
