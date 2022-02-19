@@ -25,7 +25,7 @@
 
 ## ✏️ My Blog
 
-I used my knowledge to build a blog and share it with everyone - You can find my blogs on here: <a href="https://nhuydev.tk"> Blog Nhuydev </a>
+I used my knowledge to build a blog and share it with everyone - You can find my blogs on here: <a target="_blank" href="https://nhuydev.tk"> Blog Nhuydev </a>
 
 ## 📈 Github Stats
 
