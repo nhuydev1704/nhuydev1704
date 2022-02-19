@@ -25,6 +25,5 @@ I used my knowledge to build a blog and share it with everyone - You can find my
 
 ## 📈 Github Stats
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=khanhandli&theme=tokyonight&show_icons=true&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanhandli&theme=tokyonight&layout=compact&langs_count=6">
