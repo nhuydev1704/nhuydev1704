@@ -2,13 +2,30 @@
 # Hi, I’m Nguyen Nhu Y!   <img src="https://emoji.gg/assets/emoji/7803-neco-arc.png" width="64px" height="64px" alt="totoro">
 
 ## My information
-
+- <img src="https://komarev.com/ghpvc/?username=khanhandli&color=blue">
 - 👀 I’m interested in fullstack deverloper.
 - 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
 - 💞️ I am looking to junior front end
 - 📫 How to reach me email: nguyennhuy170400@gmail.com or khanhandli@gmail.com or phone: 0328849286
 #
-<img src="https://komarev.com/ghpvc/?username=khanhandli&color=blue">
+<h2 align="center">👽 Where to find me 👽</h2>
+<div align="center">
+  <a href="https://www.facebook.com/hamita12345" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+  </a>
+  <a href="https://www.youtube.com/channel/UCZcj8qMrUswqps9HLfZb1uQ" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
+  </a>
+  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+  </a>
+  <a href="https://instagram.com/trungquandev" target="blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
+  </a>
+  <a href="mailto:trungquandev.official@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="trungquandev-email" />
+  </a>
+</div>
 
 ## Web Front-end:
 
