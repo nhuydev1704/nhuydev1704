@@ -2,6 +2,7 @@
 # Hi, I’m Nguyen Nhu Y!   <img src="https://emoji.gg/assets/emoji/7803-neco-arc.png" width="64px" height="64px" alt="totoro">
 
 ## My information
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2028%20mins-blue)
 - <img src="https://komarev.com/ghpvc/?username=nhuydev1704&color=blue">
 - 👀 I’m interested in fullstack deverloper.
 - 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
