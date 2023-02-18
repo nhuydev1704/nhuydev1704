@@ -26,7 +26,7 @@
   <a href="https://www.facebook.com/hamita12345" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
-  <a href="https://www.youtube.com/channel/UCZcj8qMrUswqps9HLfZb1uQ" target="blank">
+  <a href="https://www.youtube.com/@nguyennhuy3912" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="trungquandev-youtube" />
   </a>
   <a href="/" target="blank">
