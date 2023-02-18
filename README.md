@@ -1,28 +1,14 @@
 
 ![alt text](./images/top.svg)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
 
-<!--
-**sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
-
+## My information
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2028%20mins-blue)
+- <img src="https://komarev.com/ghpvc/?username=nhuydev1704&color=blue">
+- 👀 I’m interested in fullstack deverloper.
+- 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
+- 💞️ I am looking to junior front end
+- 📫 How to reach me email: nguyennhuy170400@gmail.com or phone: 0328849286
 
 ### Let's Connect :coffee:
 <p align="center">
@@ -34,13 +20,6 @@ Here are some ideas to get you started:
 
 ![alt text](./images/bottom.svg)
 
-## My information
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2028%20mins-blue)
-- <img src="https://komarev.com/ghpvc/?username=nhuydev1704&color=blue">
-- 👀 I’m interested in fullstack deverloper.
-- 🌱 I’m currently learning Hanoi University of Natural Resources and Environment
-- 💞️ I am looking to junior front end
-- 📫 How to reach me email: nguyennhuy170400@gmail.com or phone: 0328849286
 #
 <h2 align="center">👽 Where to find me 👽</h2>
 <div align="center">
