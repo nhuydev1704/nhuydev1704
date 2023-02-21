@@ -11,15 +11,6 @@
 - 📫 How to reach me email: nguyennhuy170400@gmail.com or phone: 0328849286
 
 ### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/sisodiya2421"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/abhishek-sisodiya/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/asisodiya2421/"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/abhisheksisodiya__/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-</p>
-
-![alt text](./images/bottom.svg)
-
 #
 <h2 align="center">👽 Where to find me 👽</h2>
 <div align="center">
@@ -39,6 +30,10 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
+
+![alt text](./images/bottom.svg)
+
+
 
 ## Web Front-end:
 
