@@ -1,7 +1,4 @@
 
-//![alt text](./images/top.svg)
-
-
 ## My information
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C211%20hrs%2028%20mins-blue)
 - <img src="https://komarev.com/ghpvc/?username=nhuydev1704&color=blue">
